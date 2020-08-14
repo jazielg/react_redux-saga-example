@@ -1,0 +1,13 @@
+yarn add redux react-redux redux-saga
+
+REDUX-SAGA
+Redux-saga Files:
+src/store/reducers/user.js
+src/store/sagas/user.js
+src/store/sagas/index.js
+
+Call saga UserList
+src/components/UserList/index.js
+
+Configure Files:
+App.js
